@@ -44,4 +44,4 @@ This Pong game is a recreation of the classic arcade game where two players cont
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Pong-Game.git
+   git clone https://github.com/Akthar99/Pong-Game.git
