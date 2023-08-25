@@ -45,3 +45,30 @@ This Pong game is a recreation of the classic arcade game where two players cont
 
    ```bash
    git clone https://github.com/Akthar99/Pong-Game.git
+
+# Controls
+Player 1 (Left Paddle):
+
+Move Up: W key
+Move Down: S key
+Player 2 (Right Paddle):
+
+Move Up: Up arrow key
+Move Down: Down arrow key
+
+# Scoring
+
+Each time the ball passes the opponent's paddle and goes out of bounds, the opposing player gains a point.
+The first player to reach 3 points wins the game.
+
+# Customization
+
+You can customize the game by modifying the variables in the pong_game.py script. You can change colors, paddle sizes, ball speed, and more to create your own version of the game.
+
+# Contributing
+
+Contributions are welcome! If you have any improvements, bug fixes, or new features to add, please feel free to open an issue or a pull request.
+
+# License
+
+This project is licensed under the MIT License.
