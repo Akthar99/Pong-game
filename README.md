@@ -7,7 +7,7 @@ Pong Gane by Hasiru
 
 This is a simple implementation of the classic Pong game using Python and the Pygame library.
 
-![Pong Game](screenshot.png)
+![Pong Game](Screenshot.png)
 
 ## Table of Contents
 
